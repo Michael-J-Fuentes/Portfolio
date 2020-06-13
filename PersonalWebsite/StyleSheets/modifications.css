@@ -1,0 +1,17 @@
+.content {
+    margin-top: 5%;
+}
+
+.img-thumbnail {
+    width: 286px;
+    height: 180px;
+}
+
+.footerCard {
+    width: 18rem;
+}
+
+.footer-subgroup {
+   list-style: none;
+    padding-left: 10%;
+}
