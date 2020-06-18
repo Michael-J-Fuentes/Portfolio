@@ -15,3 +15,9 @@
    list-style: none;
     padding-left: 10%;
 }
+/*todo: fixed background image for jumbotron*/
+/*.jumbotron {
+    background-color: white;
+    background-image: url("../assets/jesus-kiteque-wn-KYaHwcis-unsplash.jpg");
+    background-size: cover;
+}*/
